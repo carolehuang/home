@@ -2,28 +2,35 @@ body {
 	text-align: center;
 }
 
+
+h4 {
+	text-align: center;
+	color: gray;
+}
+
+
 h1 {
 	text-align: center;
 	vertical-align: middle;
 	width: 100%;
 	font-size: 70px;
-	font-family: Book Antiqua;
+	font-family: georgia;
 }
+
 
 p {
 	text-align: center;
 	color: black;
 	font-size: 30px;
-
 }
+
 
 a {
+	text-decoration: none;
 	color: lightblue;
 	font-size: 20px;
-	font-family: Courier New;
+	font-family: georgia;
 	text-align: center;
 	padding: 40px;
-  
 }
-
 
